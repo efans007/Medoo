@@ -70,7 +70,7 @@ Keep it simple and keep it clear.
 
 Medoo is under the MIT license.
 
-## Links
+## Links1
 
 * Official website: [http://medoo.in](http://medoo.in)
 
